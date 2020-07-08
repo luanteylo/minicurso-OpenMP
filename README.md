@@ -1,15 +1,17 @@
 # Minicurso - Introdução ao OpenMP
 
-Esse minicurso aborda os conceitos básicos do OpenMP utilizando a linguagem C/C++. 
+Este minicurso aborda os conceitos básicos do OpenMP utilizando a linguagem C/C++.
+
+-- Todos os arquivos disponíveis neste repositório podem ser copiados, alterados e reproduzidos desde que os créditos aos autores originais sejam mantidos.  
 
 ## Versioning
 
-versão 2.0 - 2017.
+versão 3.0 - 2020
 
-## Authors
+## Original Authors
 
 * **Leonardo Araujo** - *Desenvolvimento e Apresentação*
-* **Luan Teylo** - *Auxílio* 
+* **Luan Teylo** - *Desenvolvimento e Apresentação*
 
 ## License
 

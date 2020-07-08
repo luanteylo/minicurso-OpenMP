@@ -10,7 +10,8 @@ int main(int argc, char **argv) {
 
 	unsigned long prime = 0;
 	
-	//Solução por Força Bruta!
+	//Solução FEIA
+	//Força Bruta!
 	
 	for (unsigned long i = 2; i < n; i++) {
 		

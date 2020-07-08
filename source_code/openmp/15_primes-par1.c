@@ -9,7 +9,7 @@ int main(int argc, char **argv) {
 	unsigned long aux = 2;
 
 	unsigned long primes = 0;
-	//Sem escalonamento : Por default - escalonamento estático N-blocos=n_threads
+	
 	#pragma omp parallel for firstprivate(aux) reduction(+:primes) 
 	for (unsigned long i = 2; i < n; i++) {
 		
